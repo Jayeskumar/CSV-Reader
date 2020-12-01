@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">CSV Reader</string>
+
+    <string name="read_csv">Read CSV File</string>
+
+    <string name="files_heading"><u>Available Asset Files</u></string>
+
+    <string name="file_hint">Enter File Name (including extension)</string>
+
+    <string name="get_data">Get CSV Data</string>
+
+    <string name="data_summary">Show File Data</string>
+
+    <string name="exit_page">Back</string>
+
+</resources>
